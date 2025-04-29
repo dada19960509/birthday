@@ -29,8 +29,13 @@ var config = {
      */
     imgs: {
         "心爱的小熊熊": "./imgs/xiaokeai1.png",
+        "今天是你的生日": "./imgs/xka3.png",
+        "你要岁岁平安": "./imgs/xka2.png",
         "我要你岁岁有我！": "./imgs/wo.png",
+        "感谢有你相伴": "./imgs/yq2.png",
+        "一起度过三餐四季，不必匆忙": "./imgs/ty.png",
         "这是我们在一起的": "./imgs/yiqi.png",
+        "然后抱走": "./imgs/xka5.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
