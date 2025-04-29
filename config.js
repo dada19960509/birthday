@@ -35,6 +35,8 @@ var config = {
         "感谢有你相伴": "./imgs/yiqi3.png",
         "一起度过三餐四季，不必匆忙": "./imgs/ty.png",
         "这是我们在一起的": "./imgs/yiqi.png",
+         "第二个生日了哦": "./imgs/cake.png",
+         "要把我家可爱熊熊喂饱饱": "./imgs/bear.png",
         "然后抱走": "./imgs/xka5.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
