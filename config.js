@@ -32,7 +32,7 @@ var config = {
         "今天是你的生日": "./imgs/xka3.png",
         "你要岁岁平安": "./imgs/xka2.png",
         "我要你岁岁有我！": "./imgs/wo.png",
-        "感谢有你相伴": "./imgs/yq2.png",
+        "感谢有你相伴": "./imgs/yq3.png",
         "一起度过三餐四季，不必匆忙": "./imgs/ty.png",
         "这是我们在一起的": "./imgs/yiqi.png",
         "然后抱走": "./imgs/xka5.png",
